@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="nl-NL" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" href="../css/style.css">
+	<title>Donki</title>
+	<link rel="icon" type="image/png" href="../favicon.ico">
+
+	<script defer src="../js_1" type="text/javascript"></script>
+	
+<!-- This site is optimized with the Yoast SEO plugin v5.9.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<meta property="og:locale" content="nl_NL">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Page not found - Donki">
+<meta property="og:site_name" content="Donki">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Page not found - Donki">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/donki.be\/","name":"DONKI - It\u2019s Fresh, Fast & Mexican","potentialAction":{"@type":"SearchAction","target":"https:\/\/donki.be\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":[],"@id":"#organization","name":"DONKI","logo":"https:\/\/donki.be\/wp-content\/uploads\/2017\/12\/donki_logo_seo_512x512.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/donki.be\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wpsm-comptable-styles-css" href="../css/style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-file-upload-style-css" href="../css/wordpress_file_upload_style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-file-upload-style-safe-css" href="../css/wordpress_file_upload_style_safe_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-css-css" href="../css/jquery-ui.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-timepicker-addon-css-css" href="../css/jquery-ui-timepicker-addon.min.css" type="text/css" media="all">
+<script type="text/javascript" src="../js/json2.js"></script>
+<script type="text/javascript" src="../js/wordpress_file_upload_functions.js"></script>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/jquery-migrate.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FlowFlowOpts = {"streams":{},"open_in_new":"nope","filter_all":"Alles","filter_search":"zoeken","expand_text":"Uitklappen","collapse_text":"Vouw in","posted_on":"Gepost op","show_more":"Toon meer","date_style":"agoStyleDate","dates":{"Yesterday":"Gisteren","s":"s","m":"m","h":"h","ago":"geleden","months":["Jan","Feb","Maart","April","Mei","Juni","Juli","Aug","Sept","Oct","Nov","Dec"]},"lightbox_navigate":"Naviger met pijltoetsen","server_time":"1616946819","forceHTTPS":"nope","isAdmin":"","ajaxurl":"https:\/\/donki.be\/wp-admin\/admin-ajax.php","isLog":"","plugin_base":"https:\/\/donki.be\/wp-content\/plugins\/flow-flow","plugin_ver":"3.0.12"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="../js/require-utils.js"></script>
+<link rel="https://api.w.org/" href="https://donki.be/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://donki.be/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://donki.be/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8.15">
+<meta name="generator" content="WPML ver:3.8.3 stt:38,1,4;">
+<link rel="icon" href="../images/cropped-donki_seo_512x512-32x32.jpg" sizes="32x32">
+<link rel="icon" href="../images/cropped-donki_seo_512x512-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="../images/cropped-donki_seo_512x512-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://donki.be/wp-content/uploads/2017/12/cropped-donki_seo_512x512-270x270.jpg">
+
+
+	<script src="../js/api.js"></script>
+
+	<!-- <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script> -->
+	<script type="text/javascript">
+	      // 2. This code loads the IFrame Player API code asynchronously.
+	      var tag = document.createElement('script');
+	      tag.src = "https://www.youtube.com/iframe_api";
+	      var firstScriptTag = document.getElementsByTagName('script')[0];
+	      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+	</script>
+
+
+	<script type="text/javascript">
+		var baseurl = 'https://donki.be/';
+		var themeurl = 'https://donki.be/wp-content/themes/donki/';
+		var langwpml = 'nl';
+
+		var ajaxurl = "https://donki.be/wp-admin/admin-ajax.php"
+
+		
+	</script>
+
+
+	<link rel="stylesheet" href="../css/wordpress_file_upload_adminstyle.css">
+	<link rel="stylesheet" href="../css/wordpress_file_upload_reset.css">
+	<link rel="stylesheet" href="../css/wordpress_file_upload_style_relaxed.css">
+	<link rel="stylesheet" href="../css/wordpress_file_upload_style_safe_relaxed.css">
+	<link rel="stylesheet" href="../css/wordpress_file_upload_style_safe.css">
+	<link rel="stylesheet" href="../css/wordpress_file_upload_style_1.css">
+
+
+
+	<meta property="og:title" content="Donki.be">
+    <meta property="og:type" content="Website">
+    <meta property="og:url" content="https://donki.be">
+    <meta property="og:image" content="../images/donki-Share.png">
+    <meta property="og:site_name" content="Donki.be">
+    <meta property="og:description" content="Spreading happiness, 1 burrito at a time.">
+ 
+    <meta itemprop="name" content="Donki.be">
+    <meta itemprop="description" content="Spreading happiness, 1 burrito at a time.">
+    <meta itemprop="image" content="https://donki.be/donki-Share.png">
+ 
+    
+
+
+	
+</head> 
+<body data-rsssl="1" class="lang-nl">
+
+<header id="main-header">
+	<div class="wrap-header">
+		<nav id="main-navigation">
+			<ul>
+				<li data-id="about"><a href="https://donki.be/about" data-txt="ABOUT">ABOUT</a></li>
+				<li data-id="menu"><a href="https://donki.be/menu" data-txt="MENU">MENU</a></li>
+				<li data-id="locations"><a href="https://donki.be/locations" data-txt="LOCATIONS">LOCATIONS</a></li>
+				<li data-id="talk-to-us"><a href="https://donki.be/talk-to-us" data-txt="TALK TO US">TALK TO US</a></li>
+			</ul>
+		</nav><!-- #main-navigation -->
+		<h1 id="logo">
+			<a href="https://donki.be">
+				<div class="ico">
+					<div class="face">
+						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewbox="0 0 88.167 171.667" enable-background="new 0 0 88.167 171.667" xml:space="preserve">
+							<g>
+							<defs>
+								<rect id="SVGID_1_" x="-370.167" y="-340.39" width="850.39" height="850.39"/>
+							</defs>
+							<clippath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_" overflow="visible"/>
+							</clippath>
+							<path class="face-border" d="M55.465,171.382c-7.644,0.069-12.089-6.658-13.99-9.529
+								c-0.231-0.354-0.421-0.644-0.572-0.848c-4.056-5.41-6.804-10.096-8.655-14.75c-0.398-1.007-0.77-2.033-1.144-3.065
+								c-0.588-1.622-1.145-3.154-1.804-4.603c-1.16-2.544-1.826-5.087-2.468-7.544c-0.36-1.37-0.731-2.789-1.185-4.175
+								c-2.458-7.552-3.702-16.242-4.792-23.909l-0.196-1.353c-0.624-4.361-1.082-8.994-1.484-15.012
+								c-0.233-3.577-1.211-8.77-2.073-12.332c-0.266-1.104,0.412-2.214,1.514-2.48c1.11-0.273,2.219,0.409,2.485,1.513
+								c0.902,3.73,1.927,9.205,2.179,13.025c0.395,5.913,0.842,10.447,1.451,14.703l0.196,1.353c1.122,7.869,2.283,16.008,4.633,23.222
+								c0.489,1.498,0.875,2.973,1.25,4.4c0.624,2.399,1.222,4.66,2.233,6.886c0.728,1.597,1.337,3.277,1.928,4.903
+								c0.359,0.991,0.717,1.98,1.099,2.95c1.711,4.304,4.294,8.693,8.124,13.802c0.186,0.248,0.426,0.61,0.715,1.043
+								c1.659,2.515,5.108,7.733,10.518,7.687c5.762-0.055,9.287-8.027,10.879-12.778c2.287-6.841,3.876-14.889,4.354-22.088
+								c0.189-2.845,0.903-8.769,1.533-14c0.505-4.209,0.981-8.188,1.044-9.372c0.033-0.655,0.148-2.17,0.295-4.137
+								c0.392-5.267,1.057-14.081,0.999-17.612c-0.004-0.335,0.046-0.95,0.151-2.31c0.145-1.87,0.586-7.486,0.321-8.769
+								c-0.44-0.914-0.147-2.034,0.727-2.606c0.946-0.624,2.221-0.362,2.846,0.589c0.709,1.078,0.847,2.918,0.207,11.105
+								c-0.077,0.954-0.138,1.676-0.136,1.938c0.057,3.708-0.614,12.636-1.016,17.971c-0.145,1.922-0.254,3.402-0.287,4.038
+								c-0.067,1.329-0.533,5.188-1.066,9.657c-0.625,5.177-1.334,11.047-1.514,13.779c-0.51,7.646-2.128,15.859-4.56,23.126
+								C66.809,165.936,61.715,171.323,55.465,171.382"/>
+							<path class="face-border-top" d="M75.984,77.379c-0.635,0.007-1.269-0.282-1.676-0.838
+								c-0.361-0.479-1.965-0.964-4.765-1.433l-0.619-0.107c-1.234-0.218-2.555-0.231-3.953-0.244c-1.118-0.01-2.28-0.024-3.447-0.143
+								c-2.723-0.284-5.49-0.303-7.84-0.279c0,0-0.024-0.002-0.034-0.004c-5.386,0.049-10.921,0.92-16.27,1.763
+								c-1.128,0.175-2.248,0.353-3.37,0.521c-2.906,0.438-6.324,0.852-9.619,0.601c-0.586-0.043-1.2-0.144-1.816-0.246
+								c-0.791-0.131-1.529-0.257-2.127-0.219c-1.18,0.079-2.105-0.806-2.173-1.936c-0.063-1.132,0.801-2.104,1.936-2.171
+								c1.05-0.06,2.107,0.115,3.038,0.268c0.494,0.083,0.985,0.165,1.456,0.205c2.889,0.219,6.016-0.166,8.694-0.569
+								c1.11-0.165,2.225-0.344,3.34-0.519c5.496-0.863,11.183-1.759,16.871-1.811c0.011,0.002,0.022-0.001,0.038,0
+								c2.466-0.019,5.376,0.001,8.3,0.304c0.979,0.103,1.992,0.11,3.062,0.121c1.505,0.015,3.062,0.031,4.635,0.309l0.582,0.098
+								c2.971,0.502,5.99,1.15,7.393,3.052c0.674,0.918,0.479,2.201-0.436,2.876C76.82,77.244,76.402,77.375,75.984,77.379"/>
+							<path class="left-eye" d="M36.923,96.199c1.434-1.754,1.666-4.287,0.559-6.161
+								c-0.922-1.56-2.64-2.324-4.466-1.992c-0.437,0.079-0.816,0.29-1.102,0.587c-1.742,0.174-3.14,1.344-3.794,3.302
+								c-0.769,2.29,0.045,4.495,2.076,5.614c0.81,0.446,1.701,0.66,2.582,0.651C34.334,98.186,35.868,97.488,36.923,96.199
+								 M32.819,92.809c0.417,0.137,0.846,0.13,1.231,0.014c-0.028,0.283-0.135,0.557-0.312,0.771c-0.496,0.608-1.22,0.538-1.554,0.354
+								c-0.158-0.087-0.339-0.188-0.164-0.709c0.134-0.403,0.26-0.515,0.256-0.516C32.292,92.723,32.447,92.688,32.819,92.809"/>
+							<path class="right-eye" d="M64.921,98.009c2.07-0.758,3.564-2.499,3.712-4.329
+								c0.13-1.573-0.698-2.985-2.269-3.874c-0.005-0.007-0.013-0.013-0.023-0.015c-0.134-0.693-0.624-1.301-1.343-1.549
+								c-2.321-0.812-4.921,0.173-6.319,2.401c-1.32,2.095-1.073,4.549,0.624,6.251c0.988,0.988,2.274,1.498,3.645,1.487
+								C63.595,98.372,64.258,98.252,64.921,98.009 M62.524,93.142c0.247-0.156,1.216-0.1,1.818,0.241c0.049,0.03,0.09,0.058,0.123,0.078
+								c-0.164,0.239-0.58,0.594-1.13,0.74c-0.71,0.198-1.021-0.114-1.123-0.211c-0.067-0.07-0.196-0.201-0.242-0.409
+								C62.171,93.473,62.361,93.323,62.524,93.142"/>
+							<g class="morro-top-box">
+								<path class="morro-top" d="M70.75,145.143c-0.523-10.976-7.729-15.92-14.295-16.884c-3.601-0.53-9.354-0.7-13.726,0.573c-4.963,1.439-11.756,6.42-11.607,12.018c0.003,0.104,0.012,0.201,0.03,0.297l-0.006,0.035c-0.036,0.291-0.024,0.594,0.077,1.027c1.857,1.535,3.889,2.877,6.041,4.021c-0.021-0.049-0.041-0.095-0.063-0.146c1.104,0.521,2.243,0.954,3.356,1.193c3.409,0.728,7.643,0.818,11.61,0.242c8.705-1.269,13-0.25,14.333,1.199c-0.013,0.085-0.032,0.165-0.046,0.249c1.47-0.5,2.907-1.104,4.296-1.823C70.775,146.491,70.781,145.828,70.75,145.143z M58.921,142.826c-2.166,0.02-4.617,0.229-7.349,0.624c-3.45,0.5-7.246,0.428-10.155-0.196c-1.933-0.417-4.37-1.854-6.163-2.956c0.374-3.042,5.244-6.536,8.623-7.519c3.478-1.01,8.649-0.944,11.978-0.452c2.934,0.43,9.617,2.423,10.672,11.591C64.589,143.162,62.053,142.795,58.921,142.826z"/>
+								<path class="hole-1" d="M43.901,140.584c0.809-1.066,0.589-2.246,0.011-2.942
+								c-0.772-0.932-2.204-1.136-3.469-0.501c-0.155,0.077-0.303,0.176-0.436,0.292c-1.145,1.001-1.077,2.029-0.937,2.555
+								c0.224,0.824,0.909,1.447,1.79,1.619c0.166,0.034,0.372,0.05,0.598,0.051C42.248,141.651,43.289,141.386,43.901,140.584"/>
+								<path class="hole-2" d="M60.985,142.061c-1.026,0.008-1.985-0.514-2.452-1.364
+									c-0.337-0.614-0.472-1.536,0.019-2.459c0.149-0.454,0.462-0.86,0.909-1.117c0.98-0.57,2.258-0.49,3.17,0.205
+									c0.87,0.664,1.23,1.739,0.944,2.807c-0.274,1.025-1.159,1.772-2.256,1.905C61.206,142.051,61.096,142.059,60.985,142.061"/>
+							</g><!-- .morro-top-box -->
+							<path class="morro-bottom" d="M62.417,156.116c-1.194,0.942-2.799,1.151-4.656,1.39c-0.523,0.064-1.055,0.135-1.592,0.219c-3.128,0.496-5.95,0.34-7.932-0.438c-4.905-1.94-8.442-4.899-9.705-8.122c-0.22-0.562-0.66-1.551-1.153-2.668c-0.036-0.084-0.077-0.176-0.116-0.267c-2.151-1.144-4.183-2.485-6.041-4.021c0.222,0.945,0.874,2.515,2.397,5.953c0.464,1.051,0.876,1.979,1.085,2.504c1.677,4.285,6.06,8.088,12.024,10.445c1.996,0.787,4.185,1.031,6.206,1.014c1.42-0.016,2.754-0.156,3.882-0.337c0.493-0.076,0.986-0.138,1.47-0.202c2.258-0.288,4.59-0.591,6.678-2.238c2.896-2.283,4.74-5.425,5.466-9.234c0.438-0.52,0.616-1.241,0.396-1.938c-0.031-0.111-0.064-0.216-0.105-0.32c0.018-0.233,0.021-0.474,0.029-0.711c-1.389,0.72-2.826,1.323-4.296,1.823C65.966,151.978,64.621,154.377,62.417,156.116z"/>
+							<g class="left-ear"> 
+							<path d="M20.676,76.914c-0.569,0.003-1.137-0.227-1.547-0.681
+								c-2.018-2.239-3.041-5.416-3.943-8.22c-0.41-1.271-0.795-2.475-1.24-3.5c-4.407-10.218-6.738-20.547-8.6-30.189
+								C4.341,29.106,2.888,8.927,2.914,7.685c0.024-0.884,0.6-1.655,1.446-1.918c5.047-1.58,15.6,14.095,21.761,32.235
+								c1.835,5.399,3.805,11.688,3.933,18.008c0.116,5.6,0.286,13.921-1.817,18.654c-0.463,1.037-1.681,1.504-2.718,1.043
+								c-1.035-0.46-1.505-1.677-1.043-2.716c1.733-3.894,1.566-11.976,1.471-16.806c-0.124-5.824-1.982-11.752-3.72-16.861
+								C17.237,24.63,10.798,15.291,7.26,11.56c0.437,6.252,1.418,18.305,2.124,21.986c2.104,10.878,4.325,20.03,8.341,29.338
+								c0.519,1.205,0.956,2.559,1.378,3.871c0.81,2.528,1.652,5.141,3.082,6.726c0.759,0.842,0.691,2.142-0.154,2.903
+								C21.644,76.735,21.159,76.91,20.676,76.914"/>
+							<path d="M21.076,76.808c1.065-0.399,1.603-1.581,1.205-2.648
+								c-1.11-2.969-1.434-8.544-1.554-13.282c1.261,3.491,2.156,7.047,2.105,10.685c-0.041,0.06-0.078,0.123-0.116,0.19
+								c-0.363,0.693-0.291,1.505,0.124,2.108c0.281,0.523,0.781,0.953,1.342,1.095c0.355,0.093,1.274,0.213,2.109-0.63
+								c0.349-0.351,0.56-0.811,0.595-1.302c0.534-7.537-2.421-14.282-5.281-20.806l-0.343-0.788c-0.567-1.297-1.044-2.651-1.553-4.09
+								c-0.734-2.09-1.497-4.246-2.572-6.264c-1.292-2.426-3.442-8.756-3.466-8.818c-0.31-0.917-1.227-1.478-2.168-1.388
+								c-0.959,0.105-1.72,0.863-1.821,1.82c-0.321,2.862-1.844,17.337-0.77,21.151c0.232,0.814,0.934,1.405,1.772,1.49
+								c0.561,0.057,1.109-0.12,1.526-0.465c0.007,0.661-0.021,1.425-0.041,2.216c-0.095,2.891-0.188,5.882,0.882,7.943
+								c0.406,0.78,1.269,1.214,2.123,1.087c0.716-0.104,1.31-0.57,1.587-1.213c0.217,4.015,0.668,8.032,1.667,10.704
+								c0.31,0.829,1.104,1.341,1.945,1.337C20.605,76.938,20.844,76.893,21.076,76.808 M15.832,48.71
+								c0.316,0.903,0.645,1.823,0.993,2.733c-0.076,0.113-0.15,0.23-0.205,0.362c-0.153,0.338-0.296,0.669-0.435,0.989
+								c-0.166-1.403-0.329-2.876-0.455-4.369C15.766,48.521,15.797,48.616,15.832,48.71"/>
+							<path d="M2.378,50.895c-0.305,0.003-0.612-0.062-0.906-0.206
+								c-1.026-0.486-1.458-1.718-0.965-2.743c1.401-2.919,2.519-6.099,3.6-9.175c0.907-2.569,1.844-5.231,2.957-7.8
+								c0.588-1.353,1.155-2.698,1.718-4.032c2.268-5.385,4.411-10.471,7.617-15.463c0.615-0.958,1.886-1.235,2.841-0.626
+								c0.955,0.616,1.233,1.885,0.619,2.843c-3.011,4.699-5.087,9.627-7.284,14.843c-0.571,1.352-1.142,2.71-1.737,4.076
+								c-1.057,2.432-1.97,5.023-2.85,7.526c-1.118,3.179-2.274,6.465-3.774,9.591C3.862,50.459,3.137,50.888,2.378,50.895"/>
+							</g>
+							<path class="right-ear" d="M75.153,75.598c-0.539,0.005-1.083-0.202-1.491-0.619
+								c-0.792-0.815-0.777-2.118,0.037-2.908c2.729-2.666,3.946-7.615,4.703-11.634c0.403-2.142,0.728-4.339,1.039-6.46
+								c0.338-2.322,0.69-4.719,1.154-7.102c1.106-5.683,2.354-24.737,2.518-30.745c0.027-0.953,0.114-2.936,0.215-5.109
+								c-1.157,2.523-2.622,4.93-4.041,7.253l-0.469,0.771c-1.423,2.344-6.465,11.467-7.604,13.707
+								c-3.877,7.642-6.104,16.714-6.311,25.472l0.129-0.572c0.854-3.633,1.731-7.389,3.149-11.05c0.923-2.387,6.375-13.428,6.605-13.9
+								c0.452-0.913,1.504-1.357,2.474-1.045c0.972,0.313,1.564,1.288,1.4,2.293c-0.017,0.09-1.49,8.968-1.577,12.072
+								c-0.131,4.511-0.732,8.922-1.845,13.477c-1.243,5.095-2.624,10.755-6.899,14.396c-0.703,0.601-1.723,0.658-2.482,0.142
+								c-0.521-0.348-0.84-0.906-0.897-1.502c-0.104,0.123-0.211,0.249-0.321,0.371c-0.551,0.622-1.424,0.848-2.207,0.579
+								c-0.787-0.273-1.334-0.993-1.384-1.823c-0.092-1.543-0.097-3.094-0.099-4.599c-0.008-1.457-0.01-2.836-0.087-4.211
+								c-0.601-10.754,1.836-22.405,6.685-31.961c1.189-2.346,6.26-11.52,7.756-13.982l0.472-0.779c1.379-2.254,2.806-4.591,3.864-6.937
+								c0.446-0.996,2.785-6.071,4.617-8.155c0.58-0.655,1.513-0.873,2.315-0.546c0.812,0.33,1.326,1.137,1.285,2.009
+								c-0.007,0.112-0.56,11.129-0.631,13.742c-0.172,6.282-1.428,25.437-2.596,31.418c-0.442,2.287-0.787,4.641-1.12,6.91
+								c-0.319,2.165-0.646,4.403-1.064,6.627c-0.87,4.611-2.322,10.349-5.876,13.814C76.174,75.4,75.662,75.592,75.153,75.598"/>
+							<path class="hair-1" d="M35.855,75.874c-0.711,0.005-1.407-0.357-1.802-1.002
+								c-0.869-1.435-0.804-3.616-0.614-6.542c0.046-0.703,0.092-1.344,0.083-1.826c-0.008-1.137,0.903-2.064,2.041-2.074
+								c1.135-0.013,2.066,0.903,2.073,2.035c0.009,0.567-0.038,1.312-0.094,2.132c-0.073,1.153-0.229,3.549,0.043,4.177
+								c0.596,0.969,0.276,2.218-0.699,2.806C36.567,75.776,36.208,75.869,35.855,75.874"/>
+							<path class="hair-2" d="M41.35,74.822c-0.596,0.006-1.181-0.245-1.592-0.734
+								c-0.701-0.83-0.631-2.053,0.139-2.797c0.278-0.652,0.112-2.766,0.05-3.572c-0.035-0.469-0.067-0.876-0.076-1.175
+								c-0.051-2.946-0.254-5.27-1.11-7.743c-0.369-1.07,0.202-2.24,1.274-2.616c1.079-0.369,2.244,0.203,2.615,1.276
+								c1.029,2.974,1.28,5.75,1.339,9.009c0.002,0.235,0.028,0.557,0.06,0.93c0.176,2.28,0.423,5.41-1.395,6.94
+								C42.273,74.659,41.811,74.819,41.35,74.822"/>
+							<path class="hair-3" d="M47.883,73.796c-0.404,0.003-0.812-0.11-1.171-0.354
+								c-0.94-0.639-1.188-1.918-0.547-2.856c0.432-0.641,0.551-3.074,0.618-4.532c0.057-1.209,0.113-2.348,0.277-3.302
+								c0.197-1.121,1.272-1.859,2.381-1.672c1.121,0.197,1.869,1.263,1.671,2.382c-0.123,0.699-0.167,1.716-0.22,2.789
+								c-0.122,2.48-0.245,5.046-1.323,6.644C49.174,73.475,48.534,73.79,47.883,73.796"/>
+							<path class="hair-4" d="M54.806,74.159c-0.318,0.002-0.643-0.067-0.941-0.218
+								c-1.017-0.513-1.422-1.747-0.913-2.765c0.067-0.146,0.096-0.632,0.116-0.955c0.056-0.908,0.129-2.035,0.9-2.994
+								c0.709-0.884,2.005-1.026,2.891-0.311c0.85,0.684,1.013,1.905,0.39,2.787c-0.037,0.162-0.06,0.524-0.072,0.769
+								c-0.047,0.744-0.105,1.669-0.551,2.555C56.265,73.741,55.55,74.154,54.806,74.159"/>
+							</g>
+						</svg>
+					</div><!-- .face -->
+					<img src="../images/logo.png">
+				</div>
+				<div class="shape">
+					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100%" viewbox="0 0 100 15.04" enable-background="new 0 0 100 15.04" xml:space="preserve">
+						<g>
+							<defs>
+								<rect id="SVGID_1_" width="99.982" height="15.035"/>
+							</defs>
+							<clippath id="SVGID_2_">
+								<use xlink:href="#SVGID_1_" overflow="visible"/>
+							</clippath>
+								<path id="mainShapeNav" clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M-0.306-0.234C11-1.125,12.197,0,19.916,0c12.167,0,16.366-3.042,24.675-2C58.328-0.277,60.982-0.459,77.76,0c11.209,0.305,8.99-1.5,22.865-0.233"/>
+
+
+						</g>
+					</svg>
+					<div class="claim">
+						<svg viewbox="0 0 100 15.04">
+						   <clippath id="clip-path">
+								<path id="clipmorph" fill="#FFFFFF" d="M-0.306-0.234C11-1.125,12.197,0,19.916,0c12.167,0,16.366-3.042,24.675-2C58.328-0.277,60.982-0.459,77.76,0c11.209,0.305,8.99-1.5,22.865-0.233"/>
+						   </clippath>
+						    <image xlink:href="../images/freshfast.png" height="70%" width="66%" x="19.5%" y="0%" class="svg__image">  
+						</image></svg>
+					</div>
+				</div>
+			</a>
+		</h1>
+
+				<nav id="sec-navigation">
+			<ul id="sec-navigation-options">
+							<li class="ordernow">
+					<a href="https://restaurant-butler.com/donki" target="_blank" data-txt="ORDER NOW">ORDER NOW</a>
+					<div class="diamond">
+						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewbox="0 0 151.828 50.467" enable-background="new 0 0 151.828 50.467" xml:space="preserve">
+							<!-- <polygon fill="#F8E809" points="69.844,0 0,22.612 72.646,50.467 151.828,25.233"/> -->
+							<polygon fill="#F8E809" points="69.844,0 0,22.612 72.646,50.467 151.828,25.233"/>
+						</svg>
+					</div><!-- .diamond -->
+				</li>
+							
+				<li class="light delivery">
+					<a href="https://donki.be/delivery" data-txt="DELIVERY">DELIVERY</a>
+				</li>
+				
+				<li data-id="jobs" class="light jobs">
+					<a href="https://donki.be/jobs">JOBS</a>
+				</li>
+			</ul>
+			<div class="languages">
+								<div>
+													<p>NL</p>
+								<span></span>
+											
+				</div>
+				<ul>
+														<li><a href="https://donki.be/fr/">FR</a></li>
+															<li><a href="https://donki.be/en/">EN</a></li>
+															<li><a href="https://donki.be/">NL</a></li>
+										</ul>
+			</div>
+		</nav><!-- #sec-navigation -->
+	</div><!-- .wrap-header -->
+</header><!-- #main-header -->
+
+
+<header id="nav-mobile">
+	<div class="wrap-header">
+		<div id="nav-mobile-box">
+			<div id="ico-nav-mobile">
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewbox="0 0 19.801 17.824" enable-background="new 0 0 19.801 17.824" xml:space="preserve">
+					<path class="lnmobile1" fill="#010202" d="M0,2.535c-0.005-0.711,0.357-1.407,1.002-1.802
+						c1.435-0.869,3.616-0.804,6.542-0.614C8.247,0.165,8.888,0.211,9.37,0.202c1.137-0.008,2.063,0.903,2.073,2.041
+						c0.014,1.135-0.902,2.066-2.034,2.073C8.842,4.325,8.097,4.278,7.277,4.222C6.124,4.149,3.728,3.993,3.1,4.265
+						C2.131,4.861,0.882,4.541,0.294,3.566C0.098,3.247,0.005,2.888,0,2.535"/>
+					<path class="lnmobile2" fill="#010202" d="M1.052,8.029C1.046,7.433,1.297,6.848,1.786,6.437
+						c0.83-0.701,2.053-0.631,2.797,0.139c0.651,0.278,2.766,0.112,3.572,0.05C8.624,6.591,9.031,6.559,9.33,6.55
+						c2.946-0.051,5.27-0.254,7.743-1.11c1.07-0.369,2.24,0.202,2.617,1.274c0.368,1.079-0.203,2.244-1.277,2.615
+						c-2.973,1.029-5.75,1.28-9.008,1.339c-0.235,0.002-0.557,0.028-0.93,0.06c-2.28,0.177-5.41,0.424-6.939-1.395
+						C1.215,8.953,1.055,8.49,1.052,8.029"/>
+					<path class="lnmobile3" fill="#010202" d="M2.078,14.562c-0.004-0.403,0.109-0.812,0.354-1.171
+						c0.639-0.939,1.918-1.188,2.856-0.547c0.641,0.432,3.073,0.551,4.532,0.618c1.208,0.057,2.347,0.113,3.301,0.276
+						c1.121,0.197,1.859,1.272,1.672,2.382c-0.196,1.121-1.263,1.868-2.382,1.671c-0.698-0.123-1.716-0.167-2.789-0.221
+						c-2.48-0.122-5.045-0.244-6.644-1.322C2.399,15.854,2.085,15.214,2.078,14.562"/>
+				</svg>
+			</div>
+		</div><!-- .nav-mobile-box -->
+		<h1>
+			<a href="https://donki.be">
+			<img src="logomobile.svg">
+			</a>
+		</h1>
+
+	 	<div id="ordernow-mobile" style="opacity:0 !important; pointer-events:none !important;visibility:hidden !important;">
+			<a href="https://restaurant-butler.com/donki" target="_blank" data-txt="ORDER NOW">ORDER NOW</a>
+			<div class="diamond">
+				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" height="100%" viewbox="0 0 151.828 50.467" enable-background="new 0 0 151.828 50.467" xml:space="preserve">
+					<polygon fill="#F8E809" points="69.844,0 0,22.612 72.646,50.467 151.828,25.233"/>
+				</svg>
+			</div>
+		</div><!-- #ordernow-mobile -->
+	</div><!-- .wrap-header -->
+
+	<div id="nav-mobile-content">
+		<ul>
+			<li data-id="about"><a href="https://donki.be/about" data-txt="ABOUT">ABOUT</a></li>
+			<li data-id="menu"><a href="https://donki.be/menu" data-txt="MENU">MENU</a></li>
+			<li data-id="locations"><a href="https://donki.be/locations" data-txt="LOCATIONS">LOCATIONS</a></li>
+			<li data-id="talk-to-us"><a href="https://donki.be/talk-to-us" data-txt="TALK TO US">TALK TO US</a></li>
+			<li data-id="jobs"><a href="https://donki.be/jobs" data-txt="JOBS">JOBS</a></li>
+				
+				<li class="light delivery">
+					<a href="https://donki.be/delivery" data-txt="DELIVERY">DELIVERY</a>
+				</li>
+				
+							<li class="light delivery">
+					<a href="https://restaurant-butler.com/donki" target="_blank" data-txt="ORDER NOW">ORDER NOW</a>
+				</li>
+					</ul>
+
+
+
+
+
+		<ul class="langs">
+							<ul>
+														<li><a href="https://donki.be/fr/">FR</a></li>
+															<li><a href="https://donki.be/en/">EN</a></li>
+															<li><a href="https://donki.be/">NL</a></li>
+										</ul>
+		</ul>
+	</div>
+</header><!-- #nav-mobile -->
+
+
+<!-- <div id="bodymovin"></div> -->
+<div id="preloadbar"><span></span></div>
+<div id="transitionpage"></div>
+
+
+<div id="page" scrollbar="">
+
+
+
+	<!-- Discount -->
+	<div id="promocode">
+
+		<div class="promocode__content_close"></div>
+		<div class="promocode__content">
+			<div class="promocode__title">Tijd om te instagrammen📸</div>
+			<div class="promocode__instruction"><strong> Deel een foto van je DONKI maaltijd op Instagram + tag ons @rockindonki. Hierna ontvang je via PM een code voor een korting van 10% op je volgende webshop bestelling.  </strong><br><br>Geldig vanaf 9/03 tot en met 31/03. Zonder minimale aankoop. <br><br><strong>We kijken uit naar je foto's! Buen provecho!</strong><br><br></div>
+			<div class="promocode__coupon"></div>
+			<!-- <a target="_blank" class="promocode__btn" href=""></a> -->
+			<div class="promocode__legal"></div>
+		</div><!-- #promocode__content -->
+	</div><!--  #promocode -->
+
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oeps! Deze pagina kon niet worden gevonden.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>Het lijkt erop dat hier niets kon worden gevonden. Probeer het eens met de zoekfunctie.</p>
+
+					<form role="search" method="get" id="searchform" class="searchform" action="https://donki.be/">
+				<div>
+					<label class="screen-reader-text" for="s">Zoeken naar:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Zoeken">
+				</div>
+			</form>				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+<script type="text/javascript">
+var ytready = false;
+function onYouTubeIframeAPIReady(){
+	ytready = true;
+}	
+</script> 
+
+<script type="text/javascript" src="../js/core.min.js"></script>
+<script type="text/javascript" src="../js/widget.min.js"></script>
+<script type="text/javascript" src="../js/mouse.min.js"></script>
+<script type="text/javascript" src="../js/slider.min.js"></script>
+<script type="text/javascript" src="../js/datepicker.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Sluiten","currentText":"Vandaag","monthNames":["januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december"],"monthNamesShort":["jan","feb","mrt","apr","mei","jun","jul","aug","sep","okt","nov","dec"],"nextText":"Volgende","prevText":"Vorige","dayNames":["zondag","maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag"],"dayNamesShort":["zo","ma","di","wo","do","vr","za"],"dayNamesMin":["Z","m","D","w","d","v","Z"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="../js/jquery-ui-timepicker-addon.min.js"></script>
+<script type="text/javascript" src="../js/wp-embed.min.js"></script>
+
+<script data-main="https://donki.be/wp-content/themes/donki/js/app" src="../js/require.js"></script>
+
+
+</div><!-- #page -->
+
+
+
+
+
+</body>
+</html>
